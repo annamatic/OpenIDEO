@@ -15,7 +15,7 @@ By Anna Lee
 1.	Your office has just received a new model printer, with numerous advanced features. You need to print out some documents urgently, and don’t know how to use the new machine. There is a thick user manual detailing all the features and how to troubleshoot, and a 1-page, 3-step Quick Start Guide. Where do you turn first?  
 2.	You’ve just landed in a foreign country where you will be living for several years. You’re hungry and tired, but you have no local currency and do not speak the local language. Which should you open first: your travel guide with sections on banking, restaurants and helpful phrases? Or your textbook about the region’s history and economy?
 
-![alt text](https://github.com/annamatic/OpenIDEO/blob/master/images/timeline.jpg  "Perinatal Timeline")
+![image of perinatal timeline](https://github.com/annamatic/OpenIDEO/blob/master/images/timeline.jpg  "Perinatal Timeline")
 
 **Planning a journey**  
 For many, the transition from pregnancy through to parenthood is like a being given a complicated new appliance with no clear instructions, or embarking on a journey to a new land without an appropriate guidebook.  
@@ -23,6 +23,8 @@ For many, the transition from pregnancy through to parenthood is like a being gi
 Of course, it helps to have information about what the future holds, and much of that is already freely available via various media and languages scattered across the Internet. But, for parents, the path of nurturing a healthy baby through pregnancy and birth requires not only information, but support in turning that information into particular actions and new habits -- relating to insurance, medical appointments, personal health, employment, etc. -- at specific and repeated times throughout the journey. 
 
 Health and community advocates across the U.S. are doing hard work compiling and communicating this information to their constituents, but could they benefit from consolidating their efforts?
+
+![image of confused parents](https://github.com/annamatic/OpenIDEO/blob/master/images/1.jpg  "Confused Parents")
 
 **Task lists organized by timeline**  
 This idea proposal would take already-existing informational resources about the prenatal-through-postnatal journey -- sourced from non-advertising-influenced organizations (government agencies, NGO's, patient and community advocates, etc.)  -- and re-write and re-organize them into timely, task-based lists. 
