@@ -15,7 +15,7 @@ By Anna Lee
 1.	Your office has just received a new model printer, with numerous advanced features. You need to print out some documents urgently, and don’t know how to use the new machine. There is a thick user manual detailing all the features and how to troubleshoot, and a 1-page, 3-step Quick Start Guide. Where do you turn first?  
 2.	You’ve just landed in a foreign country where you will be living for several years. You’re hungry and tired, but you have no local currency and do not speak the local language. Which should you open first: your travel guide with sections on banking, restaurants and helpful phrases? Or your textbook about the region’s history and economy?
 
-!(https://github.com/annamatic/OpenIDEO/images/timeline.jpg  "Perinatal Timeline")
+!(https://github.com/annamatic/OpenIDEO/blob/master/images/timeline.jpg  "Perinatal Timeline")
 
 **Planning a journey**  
 For many, the transition from pregnancy through to parenthood is like a being given a complicated new appliance with no clear instructions, or embarking on a journey to a new land without an appropriate guidebook.  
