@@ -63,8 +63,9 @@ Learnings from the field of instructional design as well as other behavioral sci
 > - Writing should incorporate "if-then" planning, communicate simple “bite-sized” tips towards building healthy habits, routinizing regularly required behaviors and taking into account the access issues that the under-resourced often face.
 > - Each task should be limited to 1 action, broken into a “why,” “what” and “how.”
 
-NO: A healthy balanced diet is essential for your baby's health  
-YES: Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? WIC may be able to help.
+> *Here are two examples of incorrect and correctly written Tasks:*
+ :x: A healthy balanced diet is essential for your baby's health  
+ :white_check_mark: Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? WIC may be able to help.
 
 Partnerships with trusted and non-advertising-influenced health organizations, a tight editing process and a style guide will ensure that each task is consistently worded.
 
