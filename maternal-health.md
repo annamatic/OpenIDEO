@@ -37,8 +37,8 @@ Research has shown that, for the under-resourced in particular -- and this may i
 
 While much of the prenatal health education content currently found online is ripe with motivational call-to-actions designed to spur users to visit advertiser links and/or buy products, and information on non-profit/government websites are indeed factual, relevant and helpful, a key problem remains: information overload is a significant barrier to entry in navigating a complex/ fractured healthcare system, AND is an impediment for the under-resourced when it comes to taking appropriate health-related actions when needed. 
 
-> *Further reading about cognitive load and poverty:* 
-> [Poverty Impedes Cognitive Function. Anandi Mani et al., Science  30 Aug 2013](http://science.sciencemag.org/content/341/6149/976)  
+> *Further reading about cognitive load and poverty:*  
+> [Poverty Impedes Cognitive Function. Anandi Mani et al., Science  30 Aug 2013](http://science.sciencemag.org/content/341/6149/976).  
 > [Scarcity: Why Having Too Little Means So Much. Sendhil Mullainathan and Eldar Shafir, 2013, Times Books ( imprint of Henry Holt and Company LLC)](http://thepsychreport.com/essays-discussion/scarcity-excerpt-mullainathan-shafir/)  
 > [The Cognitive Load of Poverty. Even Nesterak, The Psych Report September 2 2013](http://thepsychreport.com/research-application/featured-research/the-cognitive-burden-of-poverty/)  
 
