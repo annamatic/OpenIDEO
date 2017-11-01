@@ -1,7 +1,7 @@
-** OpenIDEO Challenge **  
+###### Challenge
 How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?
 
-** Title **
+###### Title 
 Timeline-based To-do Lists for the Prenatal-through-Postnatal Experience.
 Restructuring complex info into timely task-based lists can simplify and reduce mental load throughout this often-overwhelming journey.
 
@@ -11,21 +11,21 @@ By Anna Lee
 
 ###### Full Description
 
-** Imagine this **  
+**Imagine this**  
 1.	Your office has just received a new model printer, with numerous advanced features. You need to print out some documents urgently, and don’t know how to use the new machine. There is a thick user manual detailing all the features and how to troubleshoot, and a 1-page, 3-step Quick Start Guide. Where do you turn first?  
 2.	You’ve just landed in a foreign country where you will be living for several years. You’re hungry and tired, but you have no local currency and do not speak the local language. Which should you open first: your travel guide with sections on banking, restaurants and helpful phrases? Or your textbook about the region’s history and economy?
 
-** Planning a journey **  
+**Planning a journey**  
 For many, the transition from pregnancy through to parenthood is like a being given a complicated new appliance with no clear instructions, or embarking on a journey to a new land without an appropriate guidebook.  
 
 Of course, it helps to have information about what the future holds, and much of that is already freely available via various media and languages scattered across the Internet. But, for parents, the path of nurturing a healthy baby through pregnancy and birth requires not only information, but support in turning that information into particular actions and new habits -- relating to insurance, medical appointments, personal health, employment, etc. -- at specific and repeated times throughout the journey. 
 
 Health and community advocates across the U.S. are doing hard work compiling and communicating this information to their constituents, but could they benefit from consolidating their efforts?
 
-** Task lists organized by timeline ** 
+**Task lists organized by timeline** 
 This idea proposal would take already-existing informational resources about the prenatal-through-postnatal journey -- sourced from non-advertising-influenced organizations (government agencies, NGO's, patient and community advocates, etc.)  -- and re-write and re-organize them into timely, task-based lists. 
 
-Why is especially-written content needed?
+**Why is especially-written content needed?**
 Research has shown that, for the under-resourced in particular -- and this may include anyone lacking time, social support or mental/physical wellness in addition to those lacking financial resource -- the stress of thinking about and dealing with scarcity leaves very little mental space to learn new information or put it into practice. 
 
 While much of the prenatal health education content currently found online is ripe with motivational call-to-actions designed to spur users to visit advertiser links and/or buy products, and information on non-profit/government websites are indeed factual, relevant and helpful, a key problem remains: information overload is a significant barrier to entry in navigating a complex/ fractured healthcare system, AND is an impediment for the under-resourced when it comes to taking appropriate health-related actions when needed. 
@@ -41,8 +41,7 @@ Further reading about getting things done:
 Cognitive Load Theory, www.mindtools.com
 Habits That Stick, 99u.com
 
-
-What will make Bean2Baby To-do Lists different from other online perinatal health information?
+**What will make Bean2Baby To-do Lists different from other online perinatal health information?**
 
 1. WHAT: This content will be written with the goal of facilitating actions, namely 1) connecting users to the healthcare resources they need and 2) learning to build healthy habits often under difficult circumstances.
 
@@ -63,8 +62,7 @@ YES: Pick up fruits, veggies and protein for the week so you’ll always have a 
 
 Partnerships with trusted and non-advertising-influenced health organizations, a tight editing process and a style guide will ensure that each task is consistently worded.
 
-
-How will the content in these To-do Lists be customized to address local or specific needs? How will we disseminate this content to those who need it?
+**How will the content in these To-do Lists be customized to address local or specific needs? How will we disseminate this content to those who need it?**  
 Developing appropriate content for the To-do Lists and then disseminating them to the people that need them most are critically important issues. To address them, Bean2Baby To-do Lists will be housed online as an Open Education Resource (OER). Open Educational Resources (OER) are educational resources that are publicly available, free to use, and licensed to copy and distribute with no fee. They can be hosted on an open education network in partnership with a university ( e.g. guides.nyu.edu/health/oer and open.umich.edu) 
 
 Therefore, while the ultimate end-user of this information include under-resourced expectant parents, the immediate and primary users for this resource would be:
