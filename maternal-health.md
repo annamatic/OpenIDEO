@@ -55,15 +55,13 @@ Learnings from the field of instructional design as well as other behavioral sci
 
 2. WHEN: Tasks will be categorized along a weekly (or daily) timeline and and grouped into the pregnancy stages (Prepregnancy, 1st Trimester, 2nd Trimester, 3rd Trimester, Birth, 1st Month Postnatal). There can also be categories for actions to be taken in the Morning, Afternoon and Night. Tasks that ought to be done consistently (eating healthy meals, staying fit, de-stressing) can appear multiple times to aid habit formation.
 
-3. HOW: The format and writing of each Task is extremely critical to carrying out Bean2Baby’s goals.  Here are some rules that each Task will need to conform to:
+3. HOW: The format and writing of each Task is extremely critical to carrying out Bean2Baby’s goals.  
 
-> Writing should avoid broad and passively-constructed, albeit "inspiring," wording in favor of more concrete, specific and actionable wording.
-
-> Writing should address critical issues where users may especially lack support (such as mental health, depression, domestic violence, food deserts) and provide either direct access to a local resource via phone number or hyperlink.
-
-> Writing should incorporate "if-then" planning, communicate simple “bite-sized” tips towards building healthy habits, routinizing regularly required behaviors and taking into account the access issues that the under-resourced often face.
-
-> Each task should be limited to 1 action, broken into a “why,” “what” and “how.”
+> *Here are some rules that each Task will need to conform to:*
+> - Writing should avoid broad and passively-constructed, albeit "inspiring," wording in favor of more concrete, specific and actionable wording.
+> - Writing should address critical issues where users may especially lack support (such as mental health, depression, domestic violence, food deserts) and provide either direct access to a local resource via phone number or hyperlink.
+> - Writing should incorporate "if-then" planning, communicate simple “bite-sized” tips towards building healthy habits, routinizing regularly required behaviors and taking into account the access issues that the under-resourced often face.
+> - Each task should be limited to 1 action, broken into a “why,” “what” and “how.”
 
 NO: A healthy balanced diet is essential for your baby's health  
 YES: Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? WIC may be able to help.
@@ -77,7 +75,7 @@ Therefore, while the ultimate end-user of this information include under-resourc
 
 **1. Organizations that want to contribute to the content** (patient advocacy groups, chronic illness advocacy groups, local/community organizations, immigrant or refugee groups, other non-profits or government entities that serve under-resourced populations) in order to consolidate information and avoid duplicating effort
 
-> *Examples*  
+> *Examples:*  
 > - A community organization in Toledo can adapt the original Bean2Baby guide to create a "Bean2Baby: Toledo, OH" list with locally relevant phone numbers and websites, to distribute to newly pregnant women in Toledo.  
 > - A community advocacy in New York can create a “Bean2Baby: en Español” list translated to Spanish and with links to resources in Spanish, benefiting other Spanish-speaking populations  
 > - A health advocacy can create a “Bean2Baby: for Type 1 Diabetics” with added Tasks that specifically address the concerns of those with Type 1 Diabetes.  
@@ -96,11 +94,8 @@ Putting this To-do List content under free-to-use copyright licensing would not 
 ![Disseminating the Content](https://github.com/annamatic/OpenIDEO/blob/master/images/maternal-health-4.jpg  "Disseminating the Content")
 
 > *Further reading about OER:*
-
-> - Creative Commons and Open Educational Resources. wiki.creativecommons.org  
-
-> - Health (Nursing, Medicine, Allied Health): Open Educational Resources for the Health Professions. guides.nyu.edu  
-
+> - [Creative Commons and Open Educational Resources. wiki.creativecommons.org](#)
+> - [Health (Nursing, Medicine, Allied Health): Open Educational Resources for the Health Professions. guides.nyu.edu](#)
 > - [1000+ OBGYN Project and African Health OER Network. open.umich.edu](https://open.umich.edu/find/open-educational-resources/global-health-resources)  
 
 
