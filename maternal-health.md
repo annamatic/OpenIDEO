@@ -22,10 +22,10 @@ Of course, it helps to have information about what the future holds, and much of
 
 Health and community advocates across the U.S. are doing hard work compiling and communicating this information to their constituents, but could they benefit from consolidating their efforts?
 
-**Task lists organized by timeline** 
+**Task lists organized by timeline**  
 This idea proposal would take already-existing informational resources about the prenatal-through-postnatal journey -- sourced from non-advertising-influenced organizations (government agencies, NGO's, patient and community advocates, etc.)  -- and re-write and re-organize them into timely, task-based lists. 
 
-**Why is especially-written content needed?**
+**Why is especially-written content needed?**  
 Research has shown that, for the under-resourced in particular -- and this may include anyone lacking time, social support or mental/physical wellness in addition to those lacking financial resource -- the stress of thinking about and dealing with scarcity leaves very little mental space to learn new information or put it into practice. 
 
 While much of the prenatal health education content currently found online is ripe with motivational call-to-actions designed to spur users to visit advertiser links and/or buy products, and information on non-profit/government websites are indeed factual, relevant and helpful, a key problem remains: information overload is a significant barrier to entry in navigating a complex/ fractured healthcare system, AND is an impediment for the under-resourced when it comes to taking appropriate health-related actions when needed. 
@@ -41,8 +41,7 @@ Further reading about getting things done:
 Cognitive Load Theory, www.mindtools.com
 Habits That Stick, 99u.com
 
-**What will make Bean2Baby To-do Lists different from other online perinatal health information?**
-
+**What will make Bean2Baby To-do Lists different from other online perinatal health information?**  
 1. WHAT: This content will be written with the goal of facilitating actions, namely 1) connecting users to the healthcare resources they need and 2) learning to build healthy habits often under difficult circumstances.
 
 2. WHEN: Tasks will be categorized along a weekly (or daily) timeline and and grouped into the pregnancy stages (Prepregnancy, 1st Trimester, 2nd Trimester, 3rd Trimester, Birth, 1st Month Postnatal). There can also be categories for actions to be taken in the Morning, Afternoon and Night. Tasks that ought to be done consistently (eating healthy meals, staying fit, de-stressing) can appear multiple times to aid habit formation.
