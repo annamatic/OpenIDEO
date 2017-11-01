@@ -65,7 +65,7 @@ Learnings from the field of instructional design as well as other behavioral sci
 
 > *Here are two examples of incorrect and correctly written Tasks:*  
  :x: Eat a healthy diet! A balanced and nutritious diet is essential for your baby's development.    
- :white_check_mark: Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? WIC may be able to help.  
+ :white_check_mark: Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? [WIC may be able to help](http://www.womeninfantschildrenoffice.com/).  
 
 Partnerships with trusted and non-advertising-influenced health organizations, a tight editing process and a style guide will ensure that each task is consistently worded.
 
