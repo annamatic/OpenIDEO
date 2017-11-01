@@ -100,5 +100,5 @@ Putting this To-do List content under free-to-use copyright licensing would not 
 > - [1000+ OBGYN Project and African Health OER Network. open.umich.edu](https://open.umich.edu/find/open-educational-resources/global-health-resources)  
 
 ![Bean2Baby Overview](https://github.com/annamatic/OpenIDEO/blob/master/images/maternal-health-overview.jpg  "Bean2Baby Overview")
-[Download the Bean2Baby Overview PDF Here](https://github.com/annamatic/OpenIDEO/blob/master/images/OpenIDEO-ToDoList-UserFlow-3.pdf)
+[Download the Bean2Baby Overview PDF Here](https://github.com/annamatic/OpenIDEO/blob/master/images/OpenIDEO-Maternal-Health-ToDoList-Overview.pdf)
 
