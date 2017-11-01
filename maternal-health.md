@@ -1,5 +1,5 @@
 ###### Challenge
-How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?
+[How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?](https://challenges.openideo.com/challenge/new-life)
 
 ###### Title 
 Timeline-based To-do Lists for the Prenatal-through-Postnatal Experience.
@@ -94,8 +94,10 @@ Putting this To-do List content under free-to-use copyright licensing would not 
 ![Disseminating the Content](https://github.com/annamatic/OpenIDEO/blob/master/images/maternal-health-4.jpg  "Disseminating the Content")
 
 > *Further reading about OER:*
-> - [Creative Commons and Open Educational Resources. wiki.creativecommons.org](#)
-> - [Health (Nursing, Medicine, Allied Health): Open Educational Resources for the Health Professions. guides.nyu.edu](#)
+> - [Creative Commons and Open Educational Resources. wiki.creativecommons.org](https://wiki.creativecommons.org/wiki/Creative_Commons_and_Open_Educational_Resources)  
+> - [Health (Nursing, Medicine, Allied Health): Open Educational Resources for the Health Professions. guides.nyu.edu](https://guides.nyu.edu/health/oer)  
 > - [1000+ OBGYN Project and African Health OER Network. open.umich.edu](https://open.umich.edu/find/open-educational-resources/global-health-resources)  
 
+![Bean2Baby Overview](https://github.com/annamatic/OpenIDEO/blob/master/images/maternal-health-overview.jpg  "Bean2Baby Overview")
+[Download the Bean2Baby Overview PDF Here](https://github.com/annamatic/OpenIDEO/blob/master/images/OpenIDEO-ToDoList-UserFlow-3.pdf)
 
