@@ -8,6 +8,9 @@ Restructuring complex info into timely task-based lists can simplify and reduce 
 ###### Author 
 Anna Lee 
 
+###### Prototype
+https://github.com/annamatic/Bean2Baby/blob/master/ReadMe.md
+
 --------------
 
 ###### Full Description
