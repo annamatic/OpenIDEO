@@ -66,7 +66,7 @@ Learnings from the field of instructional design as well as other behavioral sci
  :white_check_mark: Pick up fruits, veggies and protein for the week so you’ll always have a nutritious snack on hand when you get hungry. Is affordable, fresh food hard to find in your area? [WIC may be able to help](http://www.womeninfantschildrenoffice.com/).  
 
 **How will the content in these To-do Lists be customized to address local or specific needs? How will we disseminate this content to those who need it?**  
-Developing appropriate content for the To-do Lists and then disseminating them to the people that need them most are critically important issues. To address them, Bean2Baby To-do Lists will be housed online as an Open Education Resource (OER). Open Educational Resources (OER) are educational resources that are publicly available, free to use, and licensed to copy and distribute with no fee. They can be hosted on an open education network in partnership with a university (e.g. guides.nyu.edu/health/oer and open.umich.edu).
+Developing appropriate content for the To-do Lists and then disseminating them to the people that need them most are critically important issues. To address them, Bean2Baby To-do Lists will be housed online as an Open Education Resource (OER). Open Educational Resources (OER) are educational resources that are publicly available, free to use, and licensed to copy, adapt and distribute with no fee. They can be hosted on an open education network in partnership with a university (e.g. guides.nyu.edu/health/oer and open.umich.edu) or they can be self-hosted.
 
 Therefore, while the ultimate end-user of this information include under-resourced expectant parents, the immediate and primary users for this resource would be:
 
@@ -77,7 +77,7 @@ Therefore, while the ultimate end-user of this information include under-resourc
 > - A community advocacy in New York can create a “Bean2Baby: en Español” list translated to Spanish and with links to resources in Spanish, benefiting other Spanish-speaking populations  
 > - A health advocacy can create a “Bean2Baby: for Type 1 Diabetics” with added Tasks that specifically address the concerns of those with Type 1 Diabetes.  
 
-In speaking with OpenIDEO mentors Stefanie Boltz (Senior Program Manager, Innovating Education in Reproductive Health) and Kay Matthews (Founder, Shades of Blue), I learned that Bean2Baby's goals are aligned with those of health and community advocates — groups who are doing hard work “on the ground” and have each developed local expertise in helping under-resourced expecting parents. I envision Bean2Baby as providing an "on-ramp" for them to get their expertise into a more centralized location.
+In speaking with OpenIDEO mentors Stefanie Boltz (Senior Program Manager, Innovating Education in Reproductive Health) and Kay Matthews (Founder, Shades of Blue), I learned that Bean2Baby's goals are aligned with those of health and community advocates — groups who are doing hard work “on the ground” and have each developed local expertise in helping under-resourced expecting parents. I envision Bean2Baby as providing an "on-ramp" for them to get their expertise into a more centralized location where they can help one another.
 
 ![Developing the Content](https://github.com/annamatic/OpenIDEO/blob/master/images/maternal-health-3.jpg  "Developing the Content")
 
@@ -85,8 +85,8 @@ In speaking with OpenIDEO mentors Stefanie Boltz (Senior Program Manager, Innova
 
 > *Examples:*
 > - A medical practice can supply them as handouts to patients  
-> - A community organization can use it to design a handbook  
-> - A health/technology startup might use it for a mobile app  
+> - A community organization can use it to design a brochure or handbook  
+> - A civic health/technology startup might use it for a mobile app  
 
 Putting this To-do List content under free-to-use copyright licensing would not only be convenient and affordable for community and patient advocates, it would encourage third parties (designers, product developers, civic entrepreneurs/technologists, health organizations) to use and disseminate these Tasks and To-do Lists more widely via various media channels or modalities.
 
@@ -99,7 +99,7 @@ OpenIDEO challenge participant Susan Donahoe writes in the comment section, "AND
 > - [Health (Nursing, Medicine, Allied Health): Open Educational Resources for the Health Professions. guides.nyu.edu](https://guides.nyu.edu/health/oer)  
 > - [1000+ OBGYN Project and African Health OER Network. open.umich.edu](https://open.umich.edu/find/open-educational-resources/global-health-resources)  
 
-While there are certainly benefits to using an existing "collaboration platforms" like Github and Wikipedia -- they already include all the features and community to encourage copying, adapting, evaluating, merging and proliferating content -- it is more important that Bean2Baby exist in a space that feels inviting, comforable and safe for its primary audience, those working in health and community advocacy. Therefore, although I am currently using Github to prototype, I envision that eventually Bean2Baby would need its own platform and domain, with its own submission and review procedures. I would also like to learn more about the platforms that universities use to create Open Education Resources, to see if a partnership with a university might be something to consider.
+While there are certainly benefits to using an existing "collaboration platforms" like Github and Wikipedia -- these already include all the features and community to encourage copying, adapting, evaluating, merging and proliferating content -- it is more important that Bean2Baby exist in a space that feels inviting, comforable and safe for its primary audience, those working in health and community advocacy. Therefore, although I am currently using Github to prototype, I envision that eventually Bean2Baby would need its own platform and domain, with its own submission and review procedures. I would also like to learn more about the platforms that universities use to create Open Education Resources, to see if a partnership with a university might be something to consider.
 
 "Bean2Baby" is a temporary name, and is open to being changed.
 
