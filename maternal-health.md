@@ -99,6 +99,7 @@ OpenIDEO challenge participant Susan Donahoe writes in the comment section, "AND
 
 > *Further reading about OER:*
 > - [Creative Commons and Open Educational Resources. wiki.creativecommons.org](https://wiki.creativecommons.org/wiki/Creative_Commons_and_Open_Educational_Resources)  
+> - [WikiEducator](https://wikieducator.org/Main_Page)
 > - [Health (Nursing, Medicine, Allied Health): Open Educational Resources for the Health Professions. guides.nyu.edu](https://guides.nyu.edu/health/oer)  
 > - [1000+ OBGYN Project and African Health OER Network. open.umich.edu](https://open.umich.edu/find/open-educational-resources/global-health-resources)  
 
