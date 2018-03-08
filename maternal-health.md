@@ -1,3 +1,6 @@
+###### Status Update
+This idea was selected as one of the OpenIDEO challenge "Top Ideas," and is now in the Impact phase. Stay tuned!
+
 ###### Challenge
 [How might we reimagine the new life experience by addressing the diverse challenges of all mothers, babies, and those who care for them?](https://challenges.openideo.com/challenge/new-life)
 
